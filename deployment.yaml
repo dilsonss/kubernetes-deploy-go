@@ -30,7 +30,7 @@ kind: Service
 apiVersion: v1
 metadata:
   name: go-service
-  #namespace: go
+  #namespace: goo
 spec:
   selector:
     app: goapi
