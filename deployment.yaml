@@ -51,7 +51,7 @@ metadata:
     allow.http: "false"
 spec:
   rules:
-  - host: go.rancher.dilson.com
+  - host: go.rancher.dilson.com.br
     http:
       paths:
         - path: /
